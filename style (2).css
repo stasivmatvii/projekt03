@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    letter-spacing: 5px;
+    word-break: 30px;
+    font-family: sans-serif;
+}
